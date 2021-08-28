@@ -126,7 +126,13 @@ Etiquetar diferentes versiones a un commit especifico
 
 ### Anotados
 
+**Ejemplo 1**
+
 `git tag -a <version>`
+
+**Ejemplo 2**
+
+`git tag -a <version> -m <mensaje>`
 
 ## show
 
