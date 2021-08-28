@@ -251,6 +251,6 @@ Dividir un commit en varios parches
 
 ## merge octopus
 
-Hacer merge de varios branch
+Hacer merge de varios branches
 
 `git merge <dat1> <dat2> <dat3> ...`
