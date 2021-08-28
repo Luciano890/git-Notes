@@ -36,7 +36,7 @@ notas avanzadas de git
 
 Para obtener ayuda de los comandos
 
-`git <comando> -h`
+`git <comando> -h` o `git <comando> -help`
 
 ## diff
 
