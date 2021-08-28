@@ -29,7 +29,7 @@ notas avanzadas de git
   - [source](#source)
 - [grep](#grep)
 - [flag](#flag)
-- [merge octopus](#merge-oct)
+- [merge octopus](#merge-octopus)
 
 ---
 
