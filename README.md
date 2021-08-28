@@ -15,7 +15,6 @@ notas avanzadas de git
   - [hard](#hard)
 - [reflog](#reflog)
 - [tag](#tag)
-- [lod](#lod)
 - [show](#show)
 - [stash](#stash)
 - [fetch](#fetch)
@@ -128,12 +127,6 @@ Etiquetar diferentes versiones a un commit especifico
 ### Anotados
 
 `git tag -a <version>`
-
-## lod
-
-Historial de acciones
-
-`git lod`
 
 ## show
 
